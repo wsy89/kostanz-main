@@ -2,482 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3d37e4a-8e15-444b-9313-0a9159e06b91" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Montserrat-SemiBold.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/iconsmind.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/iconsmind.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/iconsmind.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/pillar-interface.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/pillar-interface.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/pillar-interface.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/pillar-interface.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/socicon.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/app-screenshot-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/app-screenshot-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/app-screenshot-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/app-screenshot-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/app-screenshot-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/app-screenshot-6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/avatar-large-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/avatar-large-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/avatar-large-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/avatar-small-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/avatar-small-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/avatar-small-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/avatar-small-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/avatar-small-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/avatar-small-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/avatar-team-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/avatar-team-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/avatar-team-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/avatar-team-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/avatar-team-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/avatar-team-6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/avatar-team-7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/avatar-team-8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/case-study-large-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/case-study-large-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/case-study-large-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/device1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/device2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/device3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/feature-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/header2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/header4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hero1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hero10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hero11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hero12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hero13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hero14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hero15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hero16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hero17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hero18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hero19.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hero2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hero20.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hero21.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hero22.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hero23.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hero24.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hero25.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hero26.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hero27.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hero28.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hero29.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hero3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hero4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hero5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hero6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hero7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hero8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/inner1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/inner2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/large11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/large7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo-dark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo-large-dark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo-large-light.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo-light-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo-light.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/mapmarker.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/nav-type-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/nav-type-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/nav-type-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/nav-type-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/nav-type-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/partner1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/partner2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/partner3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/partner4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/partner5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/partner6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/partner7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/political-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/political-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/political-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/political-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/political-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product-large-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product-large-10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product-large-11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product-large-12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product-large-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product-large-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product-large-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product-large-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product-large-6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product-large-7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product-large-8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product-large-9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product-long-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product-long-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product-long-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product-single-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product-single-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product-single-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product-single-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product-single-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product-single-6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product-single-7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product-small-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product-small-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/project-single-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/project-single-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/project-single-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/project-single-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/shop-aux-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/shop-aux-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/shop-aux-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/shop-aux-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/smal14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/small1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/small10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/small11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/small12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/small13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/small14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/small2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/small3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/small4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/small5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/small6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/small7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/small8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/small9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/startup-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/startup-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/startup-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/thumbs/bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/thumbs/bg2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/thumbs/chooser1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/thumbs/chooser1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/thumbs/chooser2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/thumbs/home1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/thumbs/home10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/thumbs/home11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/thumbs/home12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/thumbs/home13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/thumbs/home14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/thumbs/home15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/thumbs/home16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/thumbs/home17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/thumbs/home18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/thumbs/home19.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/thumbs/home2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/thumbs/home20.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/thumbs/home21.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/thumbs/home22.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/thumbs/home23.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/thumbs/home24.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/thumbs/home3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/thumbs/home4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/thumbs/home5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/thumbs/home6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/thumbs/home7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/thumbs/home8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/thumbs/home9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tour-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tour-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tour-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tour-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tour-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tour-6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tour-7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tour-8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/video-2-poster.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/video.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/wedding-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/wedding-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/wedding-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/wedding-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/work1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/work10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/work11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/work12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/work13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/work14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/work15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/work16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/work17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/work18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/work2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/work3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/work4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/work5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/work6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/work7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/work8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/work9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/kostanz-main.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/about.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/blue.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/brightgreen.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/custom.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/darkorange.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/darkred.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/deepred.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/font-karlaopensans.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/font-mulilato.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/font-poppinssourcesanspro.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/font-robotoslabroboto.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/green.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/iconsmind.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/interface-icons.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/lightbox.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/mediumblue.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/olivegreen.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/owl.carousel.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/pink.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/purple.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/socicon.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme-blue.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme-brightgreen.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme-darkorange.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme-darkred.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme-deepred.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme-green.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme-mediumblue.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme-olivegreen.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme-pink.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme-purple.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/donation.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/faq.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/pillar-interface.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/footer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/easypiechart.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/isotope.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-2.1.4.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/lightbox.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/owl.carousel.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/parallax.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/scrollreveal.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/smooth-scroll.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/twitterfetcher.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/ytplayer.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/scripts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/components/accordions.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/components/boxes.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/components/breadcrumbs.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/components/buttons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/components/colors.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/components/forms.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/components/helpers.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/components/hover-elements.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/components/icons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/components/image-blocks.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/components/images.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/components/lightbox-images.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/components/lists.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/components/maps.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/components/masonry.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/components/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/components/modals.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/components/nav-bar.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/components/newsletter-providers.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/components/notifications.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/components/parallax.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/components/piecharts.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/components/position.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/components/reset.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/components/size.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/components/sliders-owl.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/components/spacing.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/components/tabs.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/components/transitions.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/components/twitter.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/components/typography.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/components/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/components/video.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/theme-overrides.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/theme-variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/theme.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Attachment.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/ByteStream/AbstractFilterableInputStream.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/ByteStream/ArrayByteStream.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/ByteStream/FileByteStream.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/ByteStream/TemporaryFileByteStream.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/CharacterReader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/CharacterReader/GenericFixedWidthReader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/CharacterReader/UsAsciiReader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/CharacterReader/Utf8Reader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/CharacterReaderFactory.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/CharacterReaderFactory/SimpleCharacterReaderFactory.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/CharacterStream.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/CharacterStream/ArrayCharacterStream.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/CharacterStream/NgCharacterStream.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/ConfigurableSpool.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/DependencyContainer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/DependencyException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/EmbeddedFile.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Encoder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Encoder/Base64Encoder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Encoder/QpEncoder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Encoder/Rfc2231Encoder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Encoding.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Events/CommandEvent.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Events/CommandListener.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Events/Event.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Events/EventDispatcher.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Events/EventListener.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Events/EventObject.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Events/ResponseEvent.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Events/ResponseListener.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Events/SendEvent.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Events/SendListener.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Events/SimpleEventDispatcher.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Events/TransportChangeEvent.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Events/TransportChangeListener.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Events/TransportExceptionEvent.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Events/TransportExceptionListener.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/FailoverTransport.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/FileSpool.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/FileStream.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Filterable.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Image.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/InputByteStream.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/IoException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/KeyCache.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/KeyCache/ArrayKeyCache.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/KeyCache/DiskKeyCache.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/KeyCache/KeyCacheInputStream.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/KeyCache/NullKeyCache.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/KeyCache/SimpleKeyCacheInputStream.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/LoadBalancedTransport.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/MailTransport.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mailer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mailer/ArrayRecipientIterator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mailer/RecipientIterator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/MemorySpool.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Message.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/Attachment.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/CharsetObserver.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/ContentEncoder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/ContentEncoder/Base64ContentEncoder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/ContentEncoder/NativeQpContentEncoder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/ContentEncoder/PlainContentEncoder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/ContentEncoder/QpContentEncoder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/ContentEncoder/QpContentEncoderProxy.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/ContentEncoder/RawContentEncoder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/EmbeddedFile.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/EncodingObserver.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/Grammar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/Header.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/HeaderEncoder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/HeaderEncoder/Base64HeaderEncoder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/HeaderEncoder/QpHeaderEncoder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/HeaderFactory.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/HeaderSet.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/Headers/AbstractHeader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/Headers/DateHeader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/Headers/IdentificationHeader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/Headers/MailboxHeader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/Headers/OpenDKIMHeader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/Headers/ParameterizedHeader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/Headers/PathHeader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/Headers/UnstructuredHeader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/Message.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/MimeEntity.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/MimePart.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/ParameterizedHeader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/SimpleHeaderFactory.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/SimpleHeaderSet.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/SimpleMessage.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Mime/SimpleMimeEntity.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/MimePart.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/NullTransport.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/OutputByteStream.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Plugins/AntiFloodPlugin.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Plugins/BandwidthMonitorPlugin.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Plugins/Decorator/Replacements.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Plugins/DecoratorPlugin.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Plugins/ImpersonatePlugin.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Plugins/Logger.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Plugins/LoggerPlugin.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Plugins/Loggers/ArrayLogger.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Plugins/Loggers/EchoLogger.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Plugins/MessageLogger.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Plugins/Pop/Pop3Connection.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Plugins/Pop/Pop3Exception.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Plugins/PopBeforeSmtpPlugin.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Plugins/RedirectingPlugin.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Plugins/Reporter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Plugins/ReporterPlugin.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Plugins/Reporters/HitReporter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Plugins/Reporters/HtmlReporter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Plugins/Sleeper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Plugins/ThrottlerPlugin.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Plugins/Timer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Preferences.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/ReplacementFilterFactory.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/RfcComplianceException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/SendmailTransport.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/SignedMessage.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Signer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Signers/BodySigner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Signers/DKIMSigner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Signers/DomainKeySigner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Signers/HeaderSigner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Signers/OpenDKIMSigner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Signers/SMimeSigner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/SmtpTransport.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Spool.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/SpoolTransport.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/StreamFilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/StreamFilters/ByteArrayReplacementFilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/StreamFilters/StringReplacementFilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/StreamFilters/StringReplacementFilterFactory.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/SwiftException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Transport.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Transport/AbstractSmtpTransport.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Transport/Esmtp/Auth/CramMd5Authenticator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Transport/Esmtp/Auth/LoginAuthenticator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Transport/Esmtp/Auth/NTLMAuthenticator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Transport/Esmtp/Auth/PlainAuthenticator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Transport/Esmtp/Auth/XOAuth2Authenticator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Transport/Esmtp/AuthHandler.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Transport/Esmtp/Authenticator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Transport/EsmtpHandler.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Transport/EsmtpTransport.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Transport/FailoverTransport.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Transport/IoBuffer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Transport/LoadBalancedTransport.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Transport/MailInvoker.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Transport/MailTransport.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Transport/NullTransport.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Transport/SendmailTransport.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Transport/SimpleMailInvoker.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Transport/SmtpAgent.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Transport/SpoolTransport.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Transport/StreamBuffer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/TransportException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/classes/Swift/Validate.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/dependency_maps/cache_deps.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/dependency_maps/message_deps.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/dependency_maps/mime_deps.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/dependency_maps/transport_deps.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/mail_sender.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/mime_types.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/preferences.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/swift_init.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/swift_required.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/swift_required_pear.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/lib/swiftmailer_generate_mimes_config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/mail.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/navigation.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/home.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/contact.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/donation.html" afterPath="$PROJECT_DIR$/donation.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/faq.html" afterPath="$PROJECT_DIR$/faq.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/footer.html" afterPath="$PROJECT_DIR$/footer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gallery.html" afterPath="$PROJECT_DIR$/gallery.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/news.html" afterPath="$PROJECT_DIR$/news.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/team.html" afterPath="$PROJECT_DIR$/team.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -489,81 +23,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/about.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="631">
-              <caret line="132" column="4" lean-forward="false" selection-start-line="132" selection-start-column="4" selection-end-line="132" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contact.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="651">
-              <caret line="96" column="8" lean-forward="false" selection-start-line="96" selection-start-column="8" selection-end-line="96" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="donation.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/donation.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="665">
-              <caret line="36" column="4" lean-forward="false" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="faq.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/faq.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="651">
-              <caret line="81" column="4" lean-forward="false" selection-start-line="81" selection-start-column="4" selection-end-line="81" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gallery.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gallery.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="625">
-              <caret line="63" column="4" lean-forward="false" selection-start-line="63" selection-start-column="4" selection-end-line="63" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="news.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/news.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="631">
-              <caret line="105" column="4" lean-forward="false" selection-start-line="105" selection-start-column="4" selection-end-line="105" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="team.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/team.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="651">
-              <caret line="123" column="4" lean-forward="false" selection-start-line="123" selection-start-column="4" selection-end-line="123" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="scripts.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="scripts.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/scripts.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+            <state relative-caret-position="338">
+              <caret line="357" column="26" lean-forward="false" selection-start-line="357" selection-start-column="16" selection-end-line="357" selection-end-column="26" />
               <folding>
                 <marker date="1525660226217" expanded="true" signature="13021:13035" ph="..." />
                 <marker date="1525660226217" expanded="true" signature="13118:13132" ph="..." />
@@ -572,21 +36,91 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footer.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/footer.html">
+      <file leaf-file-name="mail.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mail/mail.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+            <state relative-caret-position="460">
+              <caret line="23" column="59" lean-forward="false" selection-start-line="23" selection-start-column="59" selection-end-line="23" selection-end-column="59" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="navigation.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/footer.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="6" column="29" lean-forward="false" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gallery.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gallery.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="27" column="83" lean-forward="false" selection-start-line="27" selection-start-column="83" selection-end-line="28" selection-end-column="53" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="news.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/news.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="560">
+              <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="team.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/team.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="560">
+              <caret line="28" column="44" lean-forward="false" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/about.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="551">
+              <caret line="29" column="51" lean-forward="false" selection-start-line="29" selection-start-column="51" selection-end-line="29" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="navigation.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/navigation.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="435">
               <caret line="22" column="26" lean-forward="false" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contact.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="205">
+              <caret line="65" column="62" lean-forward="false" selection-start-line="65" selection-start-column="62" selection-end-line="65" selection-end-column="72" />
               <folding />
             </state>
           </provider>
@@ -599,6 +133,11 @@
       <find>js/</find>
       <find>footer</find>
       <find>parallax.js</find>
+      <find>Pillar</find>
+      <find>submit</find>
+      <find>드먀ㅣ</find>
+      <find>form-email</find>
+      <find>mail settings for sending all emails from your website forms.</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -615,17 +154,18 @@
         <option value="$PROJECT_DIR$/components/navigation.html" />
         <option value="$PROJECT_DIR$/js/jquery.inc-7.js" />
         <option value="$PROJECT_DIR$/navigation.html" />
+        <option value="$PROJECT_DIR$/shared/footer.html" />
+        <option value="$PROJECT_DIR$/js/scripts.js" />
+        <option value="$PROJECT_DIR$/footer.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/about.html" />
-        <option value="$PROJECT_DIR$/contact.html" />
         <option value="$PROJECT_DIR$/donation.html" />
         <option value="$PROJECT_DIR$/faq.html" />
         <option value="$PROJECT_DIR$/gallery.html" />
         <option value="$PROJECT_DIR$/news.html" />
         <option value="$PROJECT_DIR$/team.html" />
-        <option value="$PROJECT_DIR$/shared/footer.html" />
-        <option value="$PROJECT_DIR$/footer.html" />
-        <option value="$PROJECT_DIR$/js/scripts.js" />
+        <option value="$PROJECT_DIR$/contact.html" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -678,6 +218,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="mail" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kostanz-main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kostanz-main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="less" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -693,24 +247,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="kostanz-main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="kostanz-main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1140,12 +676,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1525658076314</updated>
-      <workItem from="1525658079534" duration="2259000" />
+      <workItem from="1525658079534" duration="3355000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2259000" />
+    <option name="totallyTimeSpent" value="3355000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1979" y="-4" width="1861" height="1084" extended-state="6" />
@@ -1207,66 +743,101 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="373" column="30" lean-forward="true" selection-start-line="373" selection-start-column="30" selection-end-line="374" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="631">
-          <caret line="132" column="4" lean-forward="false" selection-start-line="132" selection-start-column="4" selection-end-line="132" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="651">
-          <caret line="96" column="8" lean-forward="false" selection-start-line="96" selection-start-column="8" selection-end-line="96" selection-end-column="8" />
+        <state relative-caret-position="-111">
+          <caret line="33" column="84" lean-forward="false" selection-start-line="33" selection-start-column="84" selection-end-line="33" selection-end-column="84" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/donation.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="665">
-          <caret line="36" column="4" lean-forward="false" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
+        <state relative-caret-position="505">
+          <caret line="28" column="52" lean-forward="false" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="52" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/faq.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="651">
-          <caret line="81" column="4" lean-forward="false" selection-start-line="81" selection-start-column="4" selection-end-line="81" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gallery.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="625">
-          <caret line="63" column="4" lean-forward="false" selection-start-line="63" selection-start-column="4" selection-end-line="63" selection-end-column="4" />
+        <state relative-caret-position="560">
+          <caret line="28" column="43" lean-forward="false" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/news.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="631">
-          <caret line="105" column="4" lean-forward="false" selection-start-line="105" selection-start-column="4" selection-end-line="105" selection-end-column="4" />
+        <state relative-caret-position="560">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/team.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="651">
-          <caret line="123" column="4" lean-forward="false" selection-start-line="123" selection-start-column="4" selection-end-line="123" selection-end-column="4" />
+        <state relative-caret-position="560">
+          <caret line="28" column="44" lean-forward="false" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="65" column="62" lean-forward="false" selection-start-line="65" selection-start-column="62" selection-end-line="65" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="357" column="26" lean-forward="false" selection-start-line="357" selection-start-column="16" selection-end-line="357" selection-end-column="26" />
+          <folding>
+            <marker date="1525660226217" expanded="true" signature="13021:13035" ph="..." />
+            <marker date="1525660226217" expanded="true" signature="13118:13132" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mail/mail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="23" column="59" lean-forward="false" selection-start-line="23" selection-start-column="59" selection-end-line="23" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gallery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="27" column="83" lean-forward="false" selection-start-line="27" selection-start-column="83" selection-end-line="28" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="29" lean-forward="false" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" column="51" lean-forward="false" selection-start-line="29" selection-start-column="51" selection-end-line="29" selection-end-column="51" />
           <folding />
         </state>
       </provider>
@@ -1276,25 +847,6 @@
         <state relative-caret-position="435">
           <caret line="22" column="26" lean-forward="false" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/footer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/scripts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding>
-            <marker date="1525660226217" expanded="true" signature="13021:13035" ph="..." />
-            <marker date="1525660226217" expanded="true" signature="13118:13132" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
