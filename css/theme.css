@@ -137,6 +137,9 @@ h6,
   margin-top: 0;
   margin-bottom: 0;
 }
+.footer-container h6 {
+  color: #cccccc;
+}
 h1,
 .h1 {
   font-size: 4em;
@@ -892,6 +895,9 @@ a {
 }
 .bg--dark {
   background: #232323;
+}
+.bg--grey {
+  background: #0f253a;
 }
 .bg--dark:not(.nav-bar) {
   color: #f5f5f5;
@@ -3287,6 +3293,15 @@ h6,
 .lead:last-child {
   margin-bottom: 0;
 }
+
+.footer-container a {
+  color: #cccccc;
+}
+
+.footer-container a:hover {
+  color: #fe0000;
+}
+
 a {
   color: #232323;
 }
