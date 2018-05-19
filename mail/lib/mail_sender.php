@@ -35,11 +35,11 @@ foreach ($_POST as $key => $value)
 	$messageText .= ucfirst($key).": ".$value."\n\n";
 }
 
-//if(isset($_POST['email']) && isset($_POST['name']) ){
-//	$fromArray = array($_POST['email'] => $_POST['name']);
-//}else{ $fromArray = array($sendingAccountUsername => $websiteName); }
-
+if(isset($_POST['email']) && isset($_POST['name']) ){
 	$fromArray = array($_POST['email'] => $_POST['name']);
+}else{ $fromArray = array($sendingAccountUsername => $websiteName); }
+
+	
 $message = Swift_Message::newInstance($emailSubject)
   ->setFrom($fromArray)
   ->setTo(array($recipientEmail => $recipientName))->setBody($messageText);
