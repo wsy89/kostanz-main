@@ -10,8 +10,8 @@ $emailMethod                = 'smtp'; // REQUIRED value. Options: 'smtp' , 'phpm
 
 // Outgoing Server Settings - replace values on the right of the = sign with your own.
 // These 3 settings are only required if you choose 'smtp' for emailMethod above.
-$outgoingServerAddress      = 'mail.gmail.com'; // Consult your hosting provider.
-$outgoingServerPort         = '25';                  // Options: '587' , '25' - Consult your hosting provider.
+$outgoingServerAddress      = 'ssl://smtp.gmail.com'; // Consult your hosting provider.
+$outgoingServerPort         = '465';                  // Options: '587' , '25' - Consult your hosting provider.
 $outgoingServerSecurity     = 'tls';                 // Options: 'ssl' , 'tls' , null - Consult your hosting provider.
 
 // Sending Account Settings - replace these details with an email account held on the SMTP server entered above.
@@ -27,7 +27,7 @@ $recipientName              = 'KOSTA New Zealand';             // REQUIRED value
 $emailSubject               = 'A message from Your Website'; // REQUIRED value. Subject of the email that the recipient will see
 $websiteName                = 'KOSTA NZ';                // REQUIRED value. This is used when a name or email is not collected from the website form
 
-$timeZone					= 'Pacific/Auckland';         // OPTIONAL, but some servers require this to be set.
+$timeZone					= 'New Zealand/Auckland';         // OPTIONAL, but some servers require this to be set.
                                                              // See a list of all supported timezones at: http://php.net/manual/en/timezones.php
  /*----------------------------------------------------------------------------*\
 |*  You do not need to edit anything below this line, the rest is automatic.    *|
