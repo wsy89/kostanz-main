@@ -24,7 +24,7 @@ $recipientEmail             = 'kostanz@gmail.com'; // REQUIRED value.
 $recipientName              = 'KOSTA New Zealand';             // REQUIRED value.
 
 // Email details            - Change these to suit your website needs
-$emailSubject               = 'A message from Your Website'; // REQUIRED value. Subject of the email that the recipient will see
+$emailSubject               = 'Enquiry Submitted'; // REQUIRED value. Subject of the email that the recipient will see
 $websiteName                = 'KOSTA NZ';                // REQUIRED value. This is used when a name or email is not collected from the website form
 
 $timeZone					= '';         // OPTIONAL, but some servers require this to be set.

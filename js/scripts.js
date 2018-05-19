@@ -486,7 +486,7 @@ mr = (function (mr, $, window, document){
                 jQuery.ajax({
                     type: "POST",
                     url: "mail/mail.php",
-                    data: thisForm.serialize()+"&url="+window.location.href,
+                    data: thisForm.serialize(),
                     success: function(response) {
                         // Swiftmailer always sends back a number representing number of emails sent.
                         // If this is numeric (not Swift Mailer error text) AND greater than 0 then show success message.
