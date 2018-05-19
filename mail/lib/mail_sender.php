@@ -36,7 +36,7 @@ foreach ($_POST as $key => $value)
 }
 
 if(isset($_POST['email']) && isset($_POST['name']) ){
-	$fromArray = array($_POST['email'] => $_POST['name']);
+	$fromArray = array("wonleanne@gmail.com" => $_POST['name']);
 }else{ $fromArray = array($sendingAccountUsername => $websiteName); }
 
 $message = Swift_Message::newInstance($emailSubject)
