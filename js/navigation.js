@@ -1,5 +1,3 @@
-// Mobile Menu Toggle
-
 $('.nav-mobile-toggle').on('click', function(){
     $('nav').toggleClass('nav-open');
 });
