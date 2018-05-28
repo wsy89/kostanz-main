@@ -39,6 +39,9 @@ if(isset($_POST['email']) && isset($_POST['name']) ){
 	$fromArray = array($_POST['email'] => $_POST['name']);
 }else{ $fromArray = array($sendingAccountUsername => $websiteName); }
 
+if(isset($_POST['toEmail'])){
+    $recipientEmail = $_POST['toEmail'];
+}
 	
 $message = Swift_Message::newInstance($emailSubject)
   ->setFrom($fromArray)
