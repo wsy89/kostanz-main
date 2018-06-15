@@ -114,7 +114,7 @@ body {
   line-height: 1.625em;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  font-family: 'Lora', 'Helvetica', 'Arial', sans-serif;
+  font-family: 'Montserrat', 'Helvetica', 'Arial', sans-serif;
   color: #767676;
   font-weight: 400;
 }
@@ -215,11 +215,11 @@ ul.bullets {
   list-style: inside;
 }
 ol {
-  list-style-type: upper-roman;
+  list-style-type: decimal;
   list-style-position: inside;
 }
 blockquote {
-  font-size: 2em;
+  font-size: 1.2em;
   line-height: 1.421875em;
   padding: 0;
   margin: 0;
@@ -259,7 +259,7 @@ a:active {
   opacity: .5;
 }
 .type--underline {
-  text-decoration: underline;
+  text-decoration: none;
 }
 .type--body-font {
   font-family: 'Lora', 'Helvetica';
@@ -1167,8 +1167,8 @@ a {
 }
 .btn--primary,
 .btn--primary:visited {
-  background: #425cbb;
-  border-color: #425cbb;
+  background: black;
+  border-color: black;
 }
 .btn--primary .btn__text,
 .btn--primary:visited .btn__text {
@@ -1356,8 +1356,9 @@ nav {
 .nav-module.left {
   float: left;
 }
-.nav-module.right {
+.nav-module.right:last-of-type {
   float: right;
+  padding-right: 5%;
 }
 .nav-module:first-of-type {
   padding-left: 0;
@@ -3302,18 +3303,18 @@ h6,
 }
 
 a {
-  color: #232323;
+  color: #0f253a;
 }
 a:hover {
   color: #fe0000;
 }
 span a,
 p a {
-  text-decoration: underline;
+  text-decoration: none;
 }
 span a:hover,
 p a:hover {
-  text-decoration: underline;
+  text-decoration: none;
   opacity: .9;
 }
 h1 em,
@@ -3357,7 +3358,7 @@ hr,
   border-color: #e7e7e7;
 }
 blockquote {
-  font-size: 1.4375em;
+  font-size: 1.2em;
   line-height: 1.69565217391304em;
   font-style: italic;
   margin-bottom: 1.1304347826087em;
@@ -3659,7 +3660,7 @@ span.label {
   color: #232323;
   text-transform: uppercase;
   letter-spacing: 1px;
-  font-weight: 500;
+  font-weight: bold;
   transition: 0.2s linear;
   -webkit-transition: 0.2s linear;
   -moz-transition: 0.2s linear;
@@ -8005,8 +8006,8 @@ section + img {
   z-index: 0;
 }
 .process-1.process-end:before {
-  top: 0;
-  height: 440px;
+  /*top: 0;*/
+  height: 65%;
 }
 @media all and (max-width: 767px) {
   .process-1:before {
