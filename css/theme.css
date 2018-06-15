@@ -1872,7 +1872,7 @@ button:focus {
   padding-bottom: 1.625em;
 }
 .accordion li.active .accordion__title {
-  background: #425cbb;
+  background: #0f253a;
   border-bottom: 1px solid #dfdfdf;
 }
 .accordion li.active .accordion__content {
