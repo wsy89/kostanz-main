@@ -1179,10 +1179,11 @@ a {
   color: #fff;
 }
 .btn--primary:hover {
-  background: #546cc3;
+  background: rgba(0, 0, 0, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8);
 }
 .btn--primary:active {
-  background: #3b53a8;
+  background: black;
 }
 .btn--primary-1,
 .btn--primary-1:visited {
@@ -3187,7 +3188,7 @@ body.theme--boxed section.section--overlap + section:not(.bg--white):not(.bg--da
   }
 }
 .btn.btn--square {
-  border-radius: 0 0 0 0;
+  border-radius: 5px;
 }
 .btn.btn--transparent {
   border: none !important;
@@ -3458,10 +3459,10 @@ span.label {
 }
 /*! -- Pillar Buttons -- */
 .btn.btn--primary {
-  border-color: #425cbb;
+  border-color: black;
 }
 .btn.btn--primary:hover {
-  border-color: #546cc3;
+  border-color: black;
 }
 .btn.btn--success {
   background: #64b671;
@@ -3489,12 +3490,12 @@ span.label {
     margin-left: -5px;
   }
   .btn--merge + .btn.btn--primary {
-    background: #546cc3;
-    border-color: #546cc3;
+    background: black;
+    border-color: black;
   }
   .btn--merge + .btn.btn--primary:hover {
-    background: #5f75c7;
-    border-color: #5f75c7;
+    background: black;
+    border-color: black;
   }
 }
 .btn--xs {
@@ -4244,8 +4245,8 @@ button {
   font-size: 0.625em !important;
   letter-spacing: 1px;
   color: #fff;
-  background: #425cbb;
-  border-color: #425cbb;
+  background: #0f253a;
+  border-color: #0f253a;
 }
 button:hover,
 button:focus,
@@ -4255,7 +4256,7 @@ button:active {
 button:active,
 button:hover,
 button:focus {
-  border-color: #425cbb !important;
+  border-color: #0f253a;
 }
 button.btn--loading:after {
   background: #8c9cd7;
