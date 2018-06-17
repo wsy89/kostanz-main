@@ -8007,7 +8007,7 @@ section + img {
 }
 .process-1.process-end:before {
   /*top: 0;*/
-  height: 65%;
+  height: 60%;
 }
 @media all and (max-width: 767px) {
   .process-1:before {
