@@ -8171,3 +8171,45 @@ section[class*='elements-'] hr + .row {
   height: 64px;
   margin: 0px;
 }
+
+.square-box{
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+}
+.square-content.init {
+  background: white;
+}
+.square-content.hover {
+  background: #737273;
+}
+.square-box:before{
+  content: "";
+  display: block;
+  padding-top: 100%;
+}
+.square-content{
+  position:  absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  text-align: center;
+}
+div.square-content h4 {
+  color: black;
+}
+div.square-content p {
+  color: white;
+  font-size: 0.8em;
+  line-height: 1.3em;
+}
+div.square-content h4,
+div.square-content p {
+  position: relative;
+  float: left;
+  top: 50%;
+  left: 50%;
+  width: 70%;
+  transform: translate(-50%, -50%);
+}
