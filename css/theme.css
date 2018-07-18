@@ -8178,7 +8178,7 @@ section[class*='elements-'] hr + .row {
   overflow: hidden;
 }
 .square-content.init {
-  background: white;
+  background: #0f253a;
 }
 .square-content.hover {
   background: #737273;
@@ -8197,7 +8197,7 @@ section[class*='elements-'] hr + .row {
   text-align: center;
 }
 div.square-content h4 {
-  color: black;
+  color: white
 }
 div.square-content p {
   color: white;
