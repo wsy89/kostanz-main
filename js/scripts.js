@@ -1410,7 +1410,7 @@ mr = (function (mr, $, window, document){
 	  			value = chart.attr('data-value')*1;
 	  		chart.easyPieChart({
 	  			animate: 2000,
-	  			barColor: '#425cbb'
+	  			barColor: '#80c5be'
 	  		});
 	  		chart.data('easyPieChart').update(value);
 	  	});
