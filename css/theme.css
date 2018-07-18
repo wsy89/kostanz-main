@@ -223,7 +223,7 @@ ol {
 }
 ul:not(.menu):not(.slides):not(.accordion):not(.tabs):not(.tabs-content),
 ol:not(.menu):not(.slides):not(.accordion):not(.tabs):not(.tabs-content) {
-  line-height: 2.34375em;
+  /*line-height: 2.34375em;*/
 }
 ul.bullets {
   list-style: inside;
