@@ -50,6 +50,14 @@ a {
   padding: 0;
 }
 /**! 2. Helper Classes **/
+h6.sub-heading {
+  line-height: 1.2em;
+  font-size: 0.8em;
+}
+div.sub-heading {
+  padding-right: 300px;
+  padding-left: 300px;
+}
 .clearfix {
   overflow: hidden;
 }
