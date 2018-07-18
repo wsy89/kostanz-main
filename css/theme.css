@@ -4044,20 +4044,7 @@ span.label {
   border-color: rgba(35, 35, 35, 0.9);
 }
 /*! -- Pillar Forms -- */
-::-webkit-input-placeholder {
-  font-style: italic;
-}
-:-moz-placeholder {
-  /* Firefox 18- */
-  font-style: italic;
-}
-::-moz-placeholder {
-  /* Firefox 19+ */
-  font-style: italic;
-}
-:-ms-input-placeholder {
-  font-style: italic;
-}
+
 form div[class*='col-'] > input {
   width: 100%;
 }
@@ -6742,7 +6729,6 @@ iframe {
   transition: 0.2s linear;
   -webkit-transition: 0.2s linear;
   -moz-transition: 0.2s linear;
-  font-style: italic;
 }
 .masonry__filters ul li:not(:last-child) {
   margin-right: 0.8125em;
