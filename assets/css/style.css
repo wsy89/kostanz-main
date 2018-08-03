@@ -7201,4 +7201,12 @@ button[type="submit"] .loading {
     margin-bottom: 0;
     width: 100%;
   }
+  
+  .logo {
+    display: none;
+  }
+}
+
+.logo_container {
+  margin: 25px auto;
 }
