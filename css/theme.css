@@ -4044,20 +4044,7 @@ span.label {
   border-color: rgba(35, 35, 35, 0.9);
 }
 /*! -- Pillar Forms -- */
-::-webkit-input-placeholder {
-  font-style: italic;
-}
-:-moz-placeholder {
-  /* Firefox 18- */
-  font-style: italic;
-}
-::-moz-placeholder {
-  /* Firefox 19+ */
-  font-style: italic;
-}
-:-ms-input-placeholder {
-  font-style: italic;
-}
+
 form div[class*='col-'] > input {
   width: 100%;
 }
@@ -5517,7 +5504,7 @@ section:not(.imagebg):not(.bg--dark):not(.bg--primary):not(.slider) .flex-contro
 .features-10 .feature {
   margin: 0;
   padding: 6.5em 0;
-  min-height: 460px;
+  min-height: 434px; 
 }
 .features-10 .feature i {
   display: inline-block;
@@ -6745,7 +6732,6 @@ iframe {
   transition: 0.2s linear;
   -webkit-transition: 0.2s linear;
   -moz-transition: 0.2s linear;
-  font-style: italic;
 }
 .masonry__filters ul li:not(:last-child) {
   margin-right: 0.8125em;
