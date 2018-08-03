@@ -8166,11 +8166,6 @@ section[class*='elements-'] hr + .row {
 .elements-modals .modal-instance:not(:last-child) {
   margin-right: 0.8125em;
 }
-@media all and (max-width: 767px) {
-  .elements-modals .modal-instance:not(:last-child) {
-    margin-bottom: 0.8125em;
-  }
-}
 
 .img-icon{
   width: 64px;
@@ -8220,7 +8215,30 @@ div.square-content p {
   transform: translate(-50%, -50%);
 }
 
+.stats_text {
+  color: white;
+}
+
+.stats_box {
+  height: 215px;
+}
+
 .box-paragraph{
   margin-left: 85px;
   margin-right: 85px;
+}
+
+@media all and (max-width: 767px) {
+  .elements-modals .modal-instance:not(:last-child) {
+    margin-bottom: 0.8125em;
+  }
+
+  div.square-content h4 {
+    font-size: 1.15em;
+  }
+
+  .box-paragraph{
+    margin-left: 10px;
+    margin-right: 10px;
+  }
 }
