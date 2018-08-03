@@ -930,6 +930,9 @@ a {
 .bg--dark:not(.nav-bar) a:not(.btn) {
   color: #fff;
 }
+.bg--dark:not(.nav-bar) a:not(.btn):hover {
+  color: #f60f73;
+}
 .bg--site {
   background: #f8f8f8;
 }
@@ -959,8 +962,7 @@ a {
 }
 .bg--white p,
 .bg--white span,
-.bg--white ul,
-.bg--white a:not(.btn) {
+.bg--white ul {
   color: #767676;
 }
 .bg--white h1,
@@ -3320,7 +3322,9 @@ h6,
 a {
   color: #0f253a;
 }
-a:hover {
+a:hover,
+pan a:hover,
+p a:hover {
   color: #f60f73;
 }
 span a,
@@ -3330,7 +3334,8 @@ p a {
 span a:hover,
 p a:hover {
   text-decoration: none;
-  opacity: .9;
+  /*opacity: .9;*/
+  color: #f60f73;
 }
 h1 em,
 h2 em,
