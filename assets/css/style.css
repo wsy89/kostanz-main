@@ -6426,7 +6426,7 @@ button[type="submit"] .loading {
     text-rendering: auto;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    content: "\f07a";
+    content: "\f044";
   }
 }
 @media (min-width: 768px) {

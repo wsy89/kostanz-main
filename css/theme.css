@@ -7971,10 +7971,10 @@ section:not(.testimonial-3):not(.map-1):not(.imagebg):not(.imageblock):not(.bg--
   margin: 0;
 }
 .section--overlap:not(:first-child) {
-  padding-top: 0;
+  /* padding-top: 0; */
   position: relative;
   z-index: 2;
-  margin-top: -6.5em;
+  /* margin-top: -6.5em; */
 }
 .section--overlap:not(:first-child) + .section--overlap {
   margin-top: -13em;
@@ -8234,6 +8234,15 @@ div.square-content p {
 .box-paragraph{
   margin-left: 85px;
   margin-right: 85px;
+}
+
+.box-paragraph-stat{
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+.row-stat {
+  margin: 0px !important;
 }
 
 @media all and (max-width: 767px) {
