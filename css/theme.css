@@ -1183,8 +1183,8 @@ a {
 }
 .btn--primary,
 .btn--primary:visited {
-  background: black;
-  border-color: black;
+  background: #f60f73;
+  border-color: #f60f73;
 }
 .btn--primary .btn__text,
 .btn--primary:visited .btn__text {
@@ -1195,11 +1195,12 @@ a {
   color: #fff;
 }
 .btn--primary:hover {
-  background: rgba(0, 0, 0, 0.8);
-  border: 1px solid rgba(0, 0, 0, 0.8);
+  background: #f60f73;
+  border: 1px solid #f60f73;
+  opacity: 0.7;
 }
 .btn--primary:active {
-  background: black;
+  background: #f60f73;
 }
 .btn--primary-1,
 .btn--primary-1:visited {
@@ -3457,6 +3458,7 @@ span.label {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
 }
 .box-shadow-light {
+  -webkit-font-smoothing: antialiased;
   box-shadow: 0px 0px 20px 0px rgba(255, 255, 255, 0.05);
 }
 .box-shadow-inset {
@@ -3473,15 +3475,14 @@ span.label {
   font-variant: normal;
   text-transform: none;
   line-height: 1;
-  -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 /*! -- Pillar Buttons -- */
 .btn.btn--primary {
-  border-color: black;
+  border-color: #f60f73;
 }
 .btn.btn--primary:hover {
-  border-color: black;
+  border-color: #f60f73;
 }
 .btn.btn--success {
   background: #64b671;
