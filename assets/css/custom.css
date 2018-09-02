@@ -1,0 +1,23 @@
+/*=================================================
+ * place custom style at this file bottom
+=================================================*/
+.main_title {
+    height: 60%;
+    margin: auto;
+    margin-top: 30%;
+}
+
+@media screen and (min-width: 700px) {
+    .header-logo {
+        content: url(../img/logo-light.png);
+    }
+
+    .main_title {
+        height: 80%;
+        margin-top: 8%;
+    }
+
+    .icon {
+        color: white;
+    }
+}
