@@ -1,585 +1,118 @@
-<!doctype html>
-<html lang="en">
+<!DOCTYPE html>
+<!--[if lt IE 9 ]><html class="ie ie-lt9 no-js" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="ie ie9 no-js" lang="en"><![endif]-->
+<!--[if gt IE 9 | !IE]><!-->
+<html class="no-js fixed" lang="en">
+<!--<![endif]-->
 <head>
-
-	<meta charset="utf-8">
-	<!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
-	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
-	<title>Home</title>
-
-	<meta name="description" content="Kosta for New Zealand">
-	<meta name="keywords" content="Kosta, Kostanz">
-	<meta name="author" content="Kosta">
-
-	<link rel="shortcut icon" href="assets/img/favicon.ico">
-	<!-- <link rel="apple-touch-icon" href="assets/img/apple-touch-icon.jpg">
-	<link rel="apple-touch-icon" sizes="72x72" href="assets/img/apple-touch-icon-72x72.jpg">
-	<link rel="apple-touch-icon" sizes="114x114" href="assets/img/apple-touch-icon-114x114.jpg"> -->
-
-	<!-- <link rel="stylesheet" type="text/css" href="assets/css/custom-animations.css" /> -->
-	<link rel="stylesheet" type="text/css" href="assets/css/style.css" />
-
-	<!--[if lt IE 9]>
-		<script src="assets/js/html5shiv.js"></script>
-		<script src="assets/js/respond.min.js"></script>
-	<![endif]-->
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="author" content="">
+<title>KOSTA NZ</title>
+<link rel='stylesheet' href='assets/css/bootstrap.min.css'>
+<link rel='stylesheet' href='assets/css/style.css'>
+<link rel='stylesheet' href='assets/css/color.css'>
+<link rel='stylesheet' href='assets/css/title-size.css'>
+<link rel='stylesheet' href='assets/css/custom.css'>
+<link rel="icon" href="assets/img/favicon.ico">
 </head>
-
 <body>
-	<div class="preloader-mask">
-		<div class="preloader"></div>
-	</div>
 
-	<section id="hero" class="hero-section ytp-player-background bg-cover window-height light-text" data-video="goH-Pv1w6xo" data-property="{videoURL: 'https://www.youtube.com/watch?v=pMYIJfO-M_c', containment: '#hero', autoPlay: true, realfullscreen: true, stopMovieOnBlur: false, addRaster: false, showControls: false, mute:true, startAt:0, opacity:1, gaTrack: false}">		
-		<div class="heading-block centered-block align-center">
-			<!-- <div class="container">
-				<h5 class="heading-alt" style="margin-bottom: 8px;"><span class="fa fa-calendar-o base-clr-txt"></span>28.nov <span class="fa fa-map-marker base-clr-txt" style="margin-left: 14px;"></span>New York, NY</h5>
-				<h1 class="extra-heading">Ventcamp</h1>
-				<h6 class="thin base-font">Massive conference about <strong>web developement</strong></h6>				
-			</div> -->
-		</div>
-	</section>
+  <!-- loader -->
+  <div id="site-loader">
+    <div class="loader"></div>
+  </div>
+  <!-- loader -->
+
+  <!-- site wrap -->
+  <div id="site-wrap">
+
+    <!-- backgeound -->
+    <div id="bg">
+      <div id="img"></div>
+      <!-- <div id="video"></div>
+      <div id="overlay"></div>
+      <div id="effect">
+        <img src="assets/img/bg/cloud-01.png" alt="" id="cloud1">
+        <img src="assets/img/bg/cloud-02.png" alt="" id="cloud2">
+        <img src="assets/img/bg/cloud-03.png" alt="" id="cloud3">
+        <img src="assets/img/bg/cloud-04.png" alt="" id="cloud4">
+      </div>
+      <canvas id="js-canvas"></canvas> -->
+    </div>
+    <!-- /background -->
+
+    <!-- site header -->
+    <header id="site-header">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-xs-12">
+            <!-- header brand -->
+            <div class="header-brand">
+              <img class="header-logo logo-dark" src="assets/img/logo-dark.png" alt="">
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+    <!-- /site header -->
+    <!-- site main -->
+    <main id="site-main">
+      <img class="main_title" src="assets/img/bg/bg-title.png" alt="">
+      <!-- home -->
+      <!-- <section id="home">
+        <div class="section-wrap">
+          <div class="section-cell">
+            <div class="container">
+              
+              <div class="section-header row text-center">
+                <div class="col-xs-12">
+                  <p class="animation section-subtitle">We are launching soon</p>
+                  <h1 class="section-title">
+                    <span class="section-title-span">KOSTA NZ 2018</span>
+                  </h1>                  
+                  <div class="animation section-divider"></div>
+                  <p class="animation section-subtitle">청코 20 Nov - 23 Nov</p>
+                  <p class="animation section-subtitle">유코 18 Dec - 21 Dec</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section> -->
+      <div class="main_info">
+
+      </div>
+      <!-- /home -->
+
+    </main>
+    <!-- /site main -->
+
+    <!-- site footer -->
+    <footer id="site-footer">
+      <div id="footer-social">
+        <a href="https://www.instagram.com/kostanewzealand/" title="" target="_blank"><i class="ion-social-instagram-outline icon"></i></a>
+        <a href="https://www.facebook.com/kostanewzealand" title="" target="_blank"><i class="ion-social-facebook icon"></i></a>
+      </div>
+      <!-- /footer social -->
+    </footer>
+    <!-- /site footer -->
+  </div>
+  <!-- /site wrap -->
+
+  <!-- script -->
+  <script src='assets/js/vendor/jquery-2.1.4.min.js'></script>
+  <!--[if lte IE 9]><!-->
+  <script src='assets/js/vendor/html5shiv.min.js'></script>
+  <!--<![endif]-->
+  <script src='assets/js/vendor/bootstrap.min.js'></script>
+  <script src='assets/js/vendor/vendor.js'></script>
+  <script src='assets/js/variable.js'></script>
+  <script src='assets/js/main.js'></script>
+  <!-- /script -->
 
-	<!-- <header class="header header-black">
-		<div class="header-wrapper">
-			<div class="container">
-				<div class="col-sm-2 col-xs-12 navigation-header">
-					<a href="#" class="logo">
-						<img src="assets/img/ventcamp_logo.png" alt="VentCamp" width="119" height="17" class="retina-hide">
-						<img src="assets/img/ventcamp_logo@2x.png" alt="VentCamp" width="119" height="17" class="retina-show">
-					</a>
-					<button class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navigation" aria-expanded="false" aria-controls="navigation">
-						<span class="icon-bar"></span>
-						<span class="icon-bar"></span>
-						<span class="icon-bar"></span>
-					</button>
-				</div>
-
-				<div class="col-sm-10 col-xs-12 navigation-container">
-					<div id="navigation" class="navbar-collapse collapse">
-						<ul class="navigation-list pull-left light-text">
-							<li class="navigation-item"><a href="#speakers" class="navigation-link">Speakers</a></li>
-							<li class="navigation-item"><a href="#schedule" class="navigation-link">Schedule</a></li>
-							<li class="navigation-item"><a href="#prices" class="navigation-link">Prices</a></li>
-							<li class="navigation-item"><a href="#gallery" class="navigation-link">Gallery</a></li>
-						</ul>
-
-						<a href="#" class="pull-right buy-btn">Buy Tickets</a>
-					</div>
-				</div>
-			</div>
-		</div>
-	</header> -->
-
-	<section id="about" class="section align-center">
-		<div class="container">
-			<span class="icon section-icon icon-multimedia-12"></span>
-			<h3>Business meets Innovation</h3>
-			<p class="text-alt">Starting your own IT business and picking right niche in less then <span class="highlight">30 days</span></p>
-			<br />
-			<br />
-
-			<div class="tabs-wrapper tabs-horizontal">
-				<ul class="nav nav-tabs">
-					<li class="active"><a href="#horizontal_tab1" data-toggle="tab">
-						<h6 class="heading-alt"><span class="fa fa-code"></span> General info</h6>
-					</a></li>
-					<li><a href="#horizontal_tab2" data-toggle="tab">
-						<h6 class="heading-alt"><span class="fa fa-rocket"></span> Workshops</h6>
-					</a></li>
-					<li><a href="#horizontal_tab3" data-toggle="tab">
-						<h6 class="heading-alt"><span class="fa fa-external-link"></span> Sponsor info</h6>
-					</a></li>
-				</ul>
-
-				<div class="tab-content">
-					<div id="horizontal_tab1" class="tab-pane fade active in">
-						<div class="col-sm-5 img-column">
-							<img src="assets/img/imac-371x412.png" alt="" class="img-responsive" />
-						</div>
-						<div class="col-sm-7 align-left">
-							<h6>About event</h6>
-							<p>Faucibus sed pretium. Ridiculus <strong>consectetuer</strong> et. In arcu enim sit in libero scelerisque mauris sed. Nullam eleifend in varius arcu vitae feugiat magna id ut morbi consectetuer. In vivamus arcu. Id ut dui. Sed massa in. Scelerisque suscipit quisque maecenas aliquet in. Wisi mi ipsum. Elit et mauris. Duis in magni praesent <a href="#">content</a> massa.</p>
-							<p>Consectetuer amet wisi felis sem <strong>tincidunt</strong>. Ultricies blandit id euismod inceptos mauris pulvinar nec nullam quisque consequat nulla eleifend elementum vivamus aliquam placerat nec. Vehicula leo praesent vitae leo mauris ullamcorper lectus sed mollis id turpis dui cras suspendisse. Porta diam <a href="#">eleifend</a>. Praesent magnis sit. Enim ligula vel justo urna.</p>
-							<ul>
-								<li>Nisl cras vitae wisi odio amet.</li>
-								<li>Lacus amet vestibulum belas</li>
-								<li>Quis nunc curabitur assumenda</li>
-							</ul>
-						</div>
-					</div>
-
-					<div id="horizontal_tab2" class="tab-pane fade">
-						<div class="col-sm-7 align-right">
-							<h6>Workshops</h6>
-							<p>Faucibus sed pretium. Ridiculus <strong>consectetuer</strong> et. In arcu enim sit in libero scelerisque mauris sed. Nullam eleifend in varius arcu vitae feugiat magna id ut morbi consectetuer. In vivamus arcu. Id ut dui. Sed massa in. Scelerisque suscipit quisque maecenas aliquet in. Wisi mi ipsum. Elit et mauris. Duis in magni praesent <a href="#">content</a> massa.</p>
-							<p>Consectetuer amet wisi felis sem <strong>tincidunt</strong>. Ultricies blandit id euismod inceptos mauris pulvinar nec nullam quisque consequat nulla eleifend elementum vivamus aliquam placerat nec. Vehicula leo praesent vitae leo mauris ullamcorper lectus sed mollis id turpis dui cras suspendisse. Porta diam <a href="#">eleifend</a>. Praesent magnis sit. Enim ligula vel justo urna.</p>
-							<ul>
-								<li>Nisl cras vitae wisi odio amet.</li>
-								<li>Lacus amet vestibulum belas</li>
-								<li>Quis nunc curabitur assumenda</li>
-							</ul>
-						</div>
-
-						<div class="col-sm-5 img-column">
-							<img src="assets/img/imac-371x412.png" alt="" class="img-responsive" />
-						</div>
-					</div>
-
-					<div id="horizontal_tab3" class="tab-pane fade">
-						<div class="col-sm-5 img-column">
-							<img src="assets/img/imac-371x412.png" alt="" class="img-responsive" />
-						</div>
-						<div class="col-sm-7 align-left">
-							<h6>Sponsors apply</h6>
-							<p>Faucibus sed pretium. Ridiculus <strong>consectetuer</strong> et. In arcu enim sit in libero scelerisque mauris sed. Nullam eleifend in varius arcu vitae feugiat magna id ut morbi consectetuer. In vivamus arcu. Id ut dui. Sed massa in. Scelerisque suscipit quisque maecenas aliquet in. Wisi mi ipsum. Elit et mauris. Duis in magni praesent <a href="#">content</a> massa.</p>
-							<ul>
-								<li>Nisl cras vitae wisi odio amet.</li>
-								<li>Lacus amet vestibulum belas</li>
-								<li>Quis nunc curabitur assumenda</li>
-							</ul>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-
-	<section id="counters" class="section align-center overlay bg-cover bg5 light-text">
-		<div class="container">
-
-			<div class="row counters-wrapper">
-				<div class="col-sm-3">
-					<div class="counter-block counter-block-no-border">
-						<div class="counter-box">
-							<div class="counter-content">
-								<span class="count" data-from="0" data-to="136">0</span>
-
-								<p class="title">speakers</p>
-							</div>
-						</div>
-					</div>
-				</div>
-
-				<div class="col-sm-3">
-					<div class="counter-block counter-block-no-border">
-						<div class="counter-box">
-							<div class="counter-content">
-								<span class="count" data-from="0" data-to="5">0</span>
-
-								<p class="title">days</p>
-							</div>
-						</div>
-					</div>
-				</div>
-
-				<div class="col-sm-3">
-					<div class="counter-block counter-block-no-border">
-						<div class="counter-box">
-							<div class="counter-content">
-								<span class="count" data-from="0" data-to="25">0</span>
-
-								<p class="title">workshops</p>
-							</div>
-						</div>
-					</div>
-				</div>
-
-				<div class="col-sm-3">
-					<div class="counter-block counter-block-no-border">
-						<div class="counter-box">
-							<div class="counter-content">
-								<span class="count" data-from="0" data-to="200">0</span>
-
-								<p class="title">speeches</p>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-
-		</div>
-	</section>
-
-	<section id="speakers" class="section align-center">
-		<div class="container">
-			<span class="icon section-icon icon-faces-users-04"></span>
-			<h3>Speakers</h3>
-			<p class="text-alt">Meet our <span class="highlight">professonals</span></p>
-			<br />
-			<br />
-
-			<div class="col-sm-4">
-				<div class="speaker">
-					<div class="photo-wrapper rounded"><img src="assets/img/speakers/speaker1.jpg" alt="John Doe" class="img-responsive"></div>
-					<h3 class="name">ERIC BOLDY</h3>
-					<p class="text-alt"><small>Project Manager</small></p>
-					<p class="about">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
-				</div>
-			</div>
-
-			<div class="col-sm-4">
-				<div class="speaker">
-					<div class="photo-wrapper rounded"><img src="assets/img/speakers/speaker2.jpg" alt="John Doe" class="img-responsive"></div>
-					<h3 class="name">JAMES ROCK</h3>
-					<p class="text-alt"><small>VP Product @ Flopbox</small></p>
-					<p class="about">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
-				</div>
-			</div>
-
-			<div class="col-sm-4">
-				<div class="speaker">
-					<div class="photo-wrapper rounded"><img src="assets/img/speakers/speaker3.jpg" alt="John Doe" class="img-responsive"></div>
-					<h3 class="name">ANDREA WARRAETY</h3>
-					<p class="text-alt"><small>Designer @ Winstagrap</small></p>
-					<p class="about">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
-				</div>
-			</div>
-
-			<div class="col-sm-4">
-				<div class="speaker">
-					<div class="photo-wrapper rounded"><img src="assets/img/speakers/speaker4.jpg" alt="John Doe" class="img-responsive"></div>
-					<h3 class="name">MARTIN BRANSON</h3>
-					<p class="text-alt"><small>Evangelist @ Doogle</small></p>
-					<p class="about">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>					
-				</div>
-			</div>
-
-			<div class="col-sm-4">
-				<div class="speaker">
-					<div class="photo-wrapper rounded"><img src="assets/img/speakers/speaker5.jpg" alt="John Doe" class="img-responsive"></div>
-					<h3 class="name">AMY WARNER</h3>
-					<p class="text-alt"><small>Graphic Designer</small></p>
-					<p class="about">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>				
-				</div>
-			</div>
-
-			<div class="col-sm-4">
-				<div class="speaker">
-					<div class="photo-wrapper rounded"><img src="assets/img/speakers/speaker2.jpg" alt="John Doe" class="img-responsive"></div>
-					<h3 class="name">ALEC KROSOVIC</h3>
-					<p class="text-alt"><small>Project Manager</small></p>
-					<p class="about">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
-				</div>
-			</div>
-		</div>
-	</section>
-
-	<section class="section align-center">
-		<div class="container">
-			<span class="icon section-icon icon-faces-users-04"></span>
-			<h3>Schedule</h3>
-			<p class="text-alt">Vast number of different speeches<br/> and <span class="highlight">activities</span></p>
-			<br />
-			<br />
-
-			<div class="col-md-10 col-md-offset-1">
-
-				<!-- Schedule start -->
-				<div class="row schedule schedule-light">
-
-					<!-- Navigation by day start -->
-					<ul class="nav nav-schedule">
-						<li class="active"><a href="#schedule3_day1" data-toggle="tab">Tuesday, oct.21</a></li>
-						<li><a href="#schedule3_day2" data-toggle="tab">Tuesday, oct.22</a></li>
-						<li><a href="#schedule3_day3" data-toggle="tab">Tuesday, oct.23</a></li>
-					</ul>
-					<!-- Navigation by day end -->
-
-					<!-- First level content start -->
-					<div class="tab-content">
-
-						<!-- Day 1 content start -->
-						<div id="schedule3_day1" class="tab-pane fade active in">
-
-							<!-- Accordion start -->
-							<div class="panel-group" id="schedule3_day1_timeline">
-
-								<!-- Lecture start -->
-								<div class="panel schedule-item">
-									<a data-toggle="collapse" href="#schedule3_day1_time1" class="schedule-item-toggle">
-										<strong class="time highlight">2:20 PM - 3:20 PM</strong>
-										<div class="lecture-icon-wrapper"><span class="fa fa-cutlery"></span></div>
-										<h6 class="title">Opening a business anywhere</h6>
-									</a>
-									<div id="schedule3_day1_time1" class="panel-collapse collapse in schedule-item-body">
-										<p class="text-alt speaker-wrapper"><strong class="highlight speaker-name">Michael Lambert</strong> Harvard M.D.</p>
-										<p class="description">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type.</p>
-									</div>
-								</div>
-								<!-- Lecture end -->
-
-								<!-- Lecture start -->
-								<div class="panel schedule-item">
-									<a data-toggle="collapse" href="#schedule3_day1_time2" class="schedule-item-toggle collapsed">
-										<strong class="time highlight">3:40 PM - 4:40 PM</strong>
-										<div class="lecture-icon-wrapper"></div>
-										<h6 class="title">Scaling into crowded space</h6>
-									</a>
-									<div id="schedule3_day1_time2" class="panel-collapse collapse schedule-item-body">
-										<p class="text-alt speaker-wrapper"><strong class="highlight speaker-name">Michael Lambert</strong> Harvard M.D.</p>
-										<p class="description">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type.</p>
-									</div>
-								</div>
-								<!-- Lecture end -->
-
-								<!-- Lecture start -->
-								<div class="panel schedule-item">
-									<a data-toggle="collapse" href="#schedule3_day1_time3" class="schedule-item-toggle collapsed">
-										<strong class="time highlight">5:00 PM - 7:00 PM</strong>
-										<div class="lecture-icon-wrapper"><img src="../assets/img/speakers/speaker1.jpg" alt="" class="img-responsive"></div>
-										<h6 class="title">Close your eyes around the world</h6>
-									</a>
-									<div id="schedule3_day1_time3" class="panel-collapse collapse schedule-item-body">
-										<p class="text-alt speaker-wrapper"><strong class="highlight speaker-name">Michael Lambert</strong> Harvard M.D.</p>
-										<p class="description">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type.</p>
-									</div>
-								</div>
-								<!-- Lecture end -->
-
-								<!-- Lecture start -->
-								<div class="panel schedule-item">
-									<a data-toggle="collapse" href="#schedule3_day1_time4" class="schedule-item-toggle collapsed">
-										<strong class="time highlight">7:40 PM - 10:00 PM</strong>
-										<div class="lecture-icon-wrapper"><img src="../assets/img/speakers/speaker1.jpg" alt="" class="img-responsive"></div>
-										<h6 class="title">Passion and people</h6>
-									</a>
-									<div id="schedule3_day1_time4" class="panel-collapse collapse schedule-item-body">
-										<p class="text-alt speaker-wrapper"><strong class="highlight speaker-name">Michael Lambert</strong> Harvard M.D.</p>
-										<p class="description">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type.</p>
-									</div>
-								</div>
-								<!-- Lecture end -->
-
-							</div>
-							<!-- Accordion end -->
-
-						</div>
-						<!-- Day 1 content end -->
-
-						<!-- Day 2 content start -->
-						<div id="schedule3_day2" class="tab-pane fade in">
-
-							<!-- Accordion start -->
-							<div class="panel-group" id="schedule3_day2_timeline">
-
-								<!-- Lecture start -->
-								<div class="panel schedule-item">
-									<a data-toggle="collapse" href="#schedule3_day2_time1" class="schedule-item-toggle">
-										<strong class="time highlight">2:20 PM - 4:00 PM</strong>
-										<div class="lecture-icon-wrapper"><img src="../assets/img/speakers/speaker1.jpg" alt="" class="img-responsive"></div>
-										<h6 class="title">Opening a business anywhere</h6>
-									</a>
-									<div id="schedule3_day2_time1" class="panel-collapse collapse in schedule-item-body">
-										<p class="text-alt speaker-wrapper"><strong class="highlight speaker-name">Michael Lambert</strong> Harvard M.D.</p>
-										<p class="description">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type.</p>
-									</div>
-								</div>
-								<!-- Lecture end -->
-
-								<!-- Lecture start -->
-								<div class="panel schedule-item">
-									<a data-toggle="collapse" href="#schedule3_day2_time3" class="schedule-item-toggle collapsed">
-										<strong class="time highlight">7:00 PM - 8:00 PM</strong>
-										<div class="lecture-icon-wrapper"><img src="../assets/img/speakers/speaker1.jpg" alt="" class="img-responsive"></div>
-										<h6 class="title">Close your eyes around the world</h6>
-									</a>
-									<div id="schedule3_day2_time3" class="panel-collapse collapse schedule-item-body">
-										<p class="text-alt speaker-wrapper"><strong class="highlight speaker-name">Michael Lambert</strong> Harvard M.D.</p>
-										<p class="description">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type.</p>
-									</div>
-								</div>
-								<!-- Lecture end -->
-
-								<!-- Lecture start -->
-								<div class="panel schedule-item">
-									<a data-toggle="collapse" href="#schedule3_day2_time4" class="schedule-item-toggle collapsed">
-										<strong class="time highlight">8:40 PM - 10:00 PM</strong>
-										<div class="lecture-icon-wrapper"><img src="../assets/img/speakers/speaker1.jpg" alt="" class="img-responsive"></div>
-										<h6 class="title">Passion and people</h6>
-									</a>
-									<div id="schedule3_day2_time4" class="panel-collapse collapse schedule-item-body">
-										<p class="text-alt speaker-wrapper"><strong class="highlight speaker-name">Michael Lambert</strong> Harvard M.D.</p>
-										<p class="description">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type.</p>
-									</div>
-								</div>
-								<!-- Lecture end -->
-
-							</div>
-							<!-- Accordion end -->
-
-						</div>
-						<!-- Day 2 content end -->
-
-						<!-- Day 3 content start -->
-						<div id="schedule3_day3" class="tab-pane fade in">
-
-							<!-- Accordion start -->
-							<div class="panel-group" id="schedule3_day3_timeline">
-
-								<!-- Lecture start -->
-								<div class="panel schedule-item">
-									<a data-toggle="collapse" href="#schedule3_day3_time1" class="schedule-item-toggle">
-										<strong class="time highlight">1:00 PM - 6:00 PM</strong>
-										<div class="lecture-icon-wrapper"><img src="../assets/img/speakers/speaker1.jpg" alt="" class="img-responsive"></div>
-										<h6 class="title">Opening a business anywhere</h6>
-									</a>
-									<div id="schedule3_day3_time1" class="panel-collapse collapse in schedule-item-body">
-										<p class="text-alt speaker-wrapper"><strong class="highlight speaker-name">Michael Lambert</strong> Harvard M.D.</p>
-										<p class="description">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type.</p>
-									</div>
-								</div>
-								<!-- Lecture end -->
-
-								<!-- Lecture start -->
-								<div class="panel schedule-item">
-									<a data-toggle="collapse" href="#schedule3_day3_time2" class="schedule-item-toggle collapsed">
-										<strong class="time highlight">6:10 PM - 8:00 PM</strong>
-										<div class="lecture-icon-wrapper"><img src="../assets/img/speakers/speaker1.jpg" alt="" class="img-responsive"></div>
-										<h6 class="title">Scaling into crowded space</h6>
-									</a>
-									<div id="schedule3_day3_time2" class="panel-collapse collapse schedule-item-body">
-										<p class="text-alt speaker-wrapper"><strong class="highlight speaker-name">Michael Lambert</strong> Harvard M.D.</p>
-										<p class="description">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type.</p>
-									</div>
-								</div>
-								<!-- Lecture end -->
-
-							</div>
-							<!-- Accordion end -->
-
-						</div>
-						<!-- Day 3 content end -->
-
-					</div>
-					<!-- First level content end -->
-
-				</div>
-				<!-- Schedule end -->
-
-			</div>
-		</div>
-	</section>
-
-	<section id="prices" class="section align-center">
-		<div class="container">
-			<span class="icon section-icon icon-shopping-04"></span>
-			<h3>Tickets</h3>
-			<p class="text-alt">Get yours why they are still <span class="highlight">available</span></p>
-			<br/>
-			<br/>
-
-			<div class="row">
-				<div class="col-sm-4">
-					<div class="package-column">
-						<h6 class="package-title">Early Bird</h6>
-						<div class="package-price">
-							<span class="currency">$</span>33
-						</div>
-						<div class="package-detail">
-							<ul>
-								<li><span class="fa fa-check check-icon"></span>Regular Seating</li>
-								<li><span class="fa fa-check check-icon"></span>Free Snacks</li>
-								<li><span class="fa fa-check check-icon"></span>Custom Badge</li>
-							</ul>
-						</div>
-					</div>
-				</div>
-
-				<div class="col-sm-4">
-					<div class="package-column">
-						<span class="sale-label uppercase">Hot!</span>
-						<h6 class="package-title">Silver Pass</h6>
-						<div class="package-price">
-							<span class="currency">$</span>99
-						</div>
-						<div class="package-detail">
-							<ul>
-								<li><span class="fa fa-check check-icon"></span>Regular Seating</li>
-								<li><span class="fa fa-check check-icon"></span>Free Snacks</li>
-								<li><span class="fa fa-check check-icon"></span>Custom Badge</li>
-							</ul>
-						</div>
-					</div>
-				</div>
-
-				<div class="col-sm-4">
-					<div class="package-column">
-						<h6 class="package-title">Gold Pass</h6>
-						<div class="package-price">
-							<span class="currency">$</span>150
-						</div>
-						<div class="package-detail">
-							<ul>
-								<li><span class="fa fa-check check-icon"></span>Regular Seating</li>
-								<li><span class="fa fa-check check-icon"></span>Free Snacks</li>
-								<li><span class="fa fa-check check-icon"></span>Custom Badge</li>
-							</ul>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>	
-
-	<section id="register" class="section overlay overlay-clr bg-cover bg4 light-text align-center">
-		<div class="container">
-			<h2>Register to Ventcamp now!</h2>
-			<p>Lorem Ipsum is simply dummy text of the printing and typesetting <br /> industry. took a galley of type and scrambled it to make a type.</p>
-			<br />
-			<br />
-
-			<a href="#" class="btn btn-lg btn-outline">Register</a>
-		</div>
-	</section>
-
-	<section id="contacts">
-		<div class="contacts-wrapper">
-			<div id="contacts-map" class="map" data-settings="map-settings.json" style="height:560px;"></div>
-
-			<div class="container contacts-on-map-container">
-				<div class="contacts-on-map">
-					<h3>Location</h3>
-
-					<ul class="list">
-						<li><i class="fa fa-map-marker"></i>881 7th Ave New York, NY</li>
-						<li><i class="fa fa-envelope"></i>info@ventcamp.com</li>
-						<li><i class="fa fa-phone"></i>(518) 457-5181 10001</li>
-						<li><i class="fa fa-clock-o"></i>7:30 - 22:00</li>
-					</ul>
-				</div>
-			</div>
-		</div>
-	</section>
-
-	<section>
-		<div class="footer-base">
-			<div class="container">
-				<div class="align-right">
-					<p class="text-alt"><small>All Rights Reserved ©</small></p>
-				</div>
-			</div>
-		</div>
-	</section>
-
-
-	<!--[if lt IE 9]>
-		<script type="text/javascript" src="js/lib/jquery-1.11.3.min.js?ver=1"></script>
-	<![endif]-->
-	<!--[if (gte IE 9) | (!IE)]><!-->
-		<script type="text/javascript" src="js/lib/jquery-2.1.4.min.js"></script>
-	<!--<![endif]-->
-
-	<script type="text/javascript" src="js/lib/bootstrap.min.js"></script>
-	<!-- <script type="text/javascript" src="js/lib/jquery.validate.min.js"></script>
-	<script type="text/javascript" src="js/lib/toastr.min.js"></script>
-	<script type="text/javascript" src="js/lib/jquery.waypoints.min.js"></script>
-	<script type="text/javascript" src="js/lib/jquery.appear.js"></script>
-	<script type="text/javascript" src="js/lib/jquery.plugin.js"></script>
-	<script type="text/javascript" src="js/lib/jquery.countTo.js"></script>	
-	<script type="text/javascript" src="js/lib/masonry.pkgd.min.js"></script>
-	<script type="text/javascript" src="js/lib/modal-box.js"></script> -->
-	<script type="text/javascript" src="js/lib/jquery.mb.YTPlayer.min.js"></script>
-	<script type="text/javascript" src="js/lib/ventcamp.js"></script>
 </body>
 </html>
