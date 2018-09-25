@@ -2420,6 +2420,19 @@ input.header.header-color .navigation-header .buy-btn,
   color: #ffffff;
   background-color: #facacb
 }
+.attention-section p {
+  margin: 0px;
+  color: red;
+  font-style: italic;
+  font-size: small;
+}
+.how-to-pay p {
+  margin: 0px;
+}
+p, article {
+  margin: 0 0 10px;
+  line-height: 29px;
+}
 .bg-low-poly,
 div.bg-low-poly,
 footer.bg-low-poly,
