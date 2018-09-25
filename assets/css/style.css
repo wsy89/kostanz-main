@@ -6768,6 +6768,51 @@ button[type="submit"] .loading {
     margin: 0;
   }
 }
+footer .socials-nav {
+
+  position: static;
+  top: auto;
+  left: auto;
+  right: auto;
+  display: inline-block;
+  width: auto;
+  text-align: right;
+
+}
+.footer .socials-nav .socials-nav-item {
+
+  margin: 0 8px;
+  line-height: 1;
+
+}
+socials-nav-item {
+
+  margin: 0 12px;
+  display: inline-block;
+  width: 24px;
+  font-size: 20px;
+
+}
+.socials-nav-item a:not(:hover):not(:active):not(:focus) {
+
+  color: #ffffff;
+
+}
+.socials-nav-item a:not(:hover):not(:active):not(:focus) {
+
+  color: #ffffff;
+
+}
+.socials-nav-item a .fa {
+
+  color: inherit;
+
+}
+.footer-base p.text-alt {
+
+  display: inline;
+
+}
 /* ----------------------------------------------------------------------------
     Back to top button
 ---------------------------------------------------------------------------- */
