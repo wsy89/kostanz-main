@@ -6590,6 +6590,7 @@ button[type="submit"] .loading {
   .header-wrapper {
     height: auto;
     min-height: 90px;
+    background-color: #facacb !important;
   }
   .header-wrapper > .container {
     padding: 0;
@@ -7309,8 +7310,8 @@ socials-nav-item {
     width: 100%;
   }
   
-  .logo {
-    display: none;
+  .logo img {
+      height: 50px;
   }
 }
 
