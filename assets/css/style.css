@@ -2013,10 +2013,10 @@ body {
   font-weight: 500;
 }
 .base-font {
-  font-family: "Roboto", "Helvetica Neue", Arial, Helvetica, sans-serif;
+  font-family: tvn_enjoystorieslight, "Roboto", "Helvetica Neue", Arial, Helvetica, sans-serif;
 }
 .heading-font {
-  font-family: de_valenciaregular;
+  font-family: tvn_enjoystorieslight, Arial, Helvetica, sans-serif;
 }
 .uppercase {
   text-transform: uppercase;
@@ -2059,7 +2059,7 @@ h4,
 h5,
 h6,
 .h7 {
-  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-family: tvn_enjoystoriesmedium, Arial, "Helvetica Neue", Helvetica, sans-serif;
   font-weight: 700;
 }
 h1,
@@ -2082,7 +2082,7 @@ h5 {
 h3,
 h6,
 .h7 {
-  color: #262627;
+  color: #18174c;
 }
 .h8 {
   color: #8d93a0;
@@ -3484,7 +3484,7 @@ button.btn.btn-block {
   transition: background 0.2s ease, border 0.2s ease;
   position: relative;
   display: table-cell;
-  font-size: 15px;
+  font-size: 20px;
   border-style: solid;
   border-width: 1px 0 1px 1px;
   border-color: #e9e9e9;
@@ -3746,13 +3746,13 @@ button.btn.btn-block {
 }
 .schedule.schedule-light .nav.nav-schedule > li > a {
   padding: 24px 15px 19px;
-  font-family: "Helvetica Neue", Helvetica, sans-serif;
+  font-family: tvn_enjoystoriesbold, "Helvetica Neue", Helvetica, sans-serif;
   font-weight: 700;
   text-transform: uppercase;
-  color: #ffffff;
+  color: #18174c;
 }
 .schedule.schedule-light .nav.nav-schedule > li.active {
-  background-color: #ffffff;
+  background-color: #18174c;
 }
 .schedule.schedule-light .tab-content {
   padding: 60px;
@@ -3774,6 +3774,9 @@ button.btn.btn-block {
   margin: 0 20.5% 0 0;
   width: 26.5%;
   text-align: right;
+  color: #f1aeb2;
+  font-size: 20px;
+  font-family: tvn_enjoystoriesmedium, Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
 .schedule.schedule-light .schedule-item .schedule-item-toggle .lecture-icon-wrapper {
   margin: 0 40px;
@@ -5794,11 +5797,13 @@ button[type="submit"] .loading {
   width: 200px;
 }
 .speaker .name {
-  font-size: 13px;
+  font-size: 20px;
   font-weight: 700;
   text-transform: uppercase;
   line-height: 14px;
   letter-spacing: 0.3em;
+  color: #18174c;
+  font-family: tvn_enjoystoriesbold, Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
 .speaker .name + p small {
   font-size: 14px;
