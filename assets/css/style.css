@@ -37,6 +37,33 @@
   font-weight: normal;
   font-style: normal;
 }
+
+@font-face {
+  font-family: 'tvn_enjoystoriesmedium';
+  src: url('../fonts/tvn_enjoystories_medium-webfont.woff2') format('woff2'),
+  url('../fonts/tvn_enjoystories_medium-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+@font-face {
+  font-family: 'tvn_enjoystorieslight';
+  src: url('../fonts/tvn_enjoystories_light-webfont.woff2') format('woff2'),
+  url('../fonts/tvn_enjoystories_light-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+@font-face {
+  font-family: 'tvn_enjoystoriesbold';
+  src: url('../fonts/tvn_enjoystories_bold-webfont.woff2') format('woff2'),
+  url('../fonts/tvn_enjoystories_bold-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
 .fa {
   display: inline-block;
   font: normal normal normal 14px/1 FontAwesome;
@@ -2068,7 +2095,8 @@ h5.heading-alt {
   color: #262627;
 }
 h6.heading-alt {
-  font-size: 15px;
+  font-family: tvn_enjoystoriesbold, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 20px;
   line-height: 1.5;
   color: #474749;
   letter-spacing: 0.15em;
@@ -3180,14 +3208,14 @@ li {
   min-width: 144px;
   max-width: 100%;
   padding: 21px 25px 19px;
-  font-family: "Helvetica Neue", Helvetica, sans-serif;
-  font-size: 11px;
+  font-family: tvn_enjoystoriesbold, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 15px;
   font-weight: 700;
   text-align: center;
   text-transform: uppercase;
   text-decoration: none;
   line-height: 1;
-  letter-spacing: 0.59em;
+  letter-spacing: 0.2em;
   border: none;
   border-radius: 4px;
   overflow: hidden;
@@ -6453,11 +6481,11 @@ button[type="submit"] .loading {
   transition: color 0.15s ease, background 0.15s ease, border 0.15s ease, opacity 0.15s ease;
   display: inline-block;
   padding: 7px 0;
-  font-family: "Helvetica Neue", Helvetica, sans-serif;
-  font-size: 11px;
+  font-family: tvn_enjoystoriesbold, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 15px;
   font-weight: 700;
   text-transform: uppercase;
-  letter-spacing: 0.26em;
+  letter-spacing: 0.2em;
   color: #262627;
   border-style: solid;
   border-width: 0 0 2px;
