@@ -7356,3 +7356,7 @@ socials-nav-item {
 .logo_container {
   margin: 25px auto;
 }
+
+.padding-top-zero {
+  padding-top: 0px;
+}
