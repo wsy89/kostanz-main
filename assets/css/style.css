@@ -2450,6 +2450,13 @@ input.header.header-color .navigation-header .buy-btn,
 .header .buy-btn {
   color: #facacb;
 }
+.buttons.middle-align {
+  width: 100%;
+  text-align: center;
+}
+.buttons.middle-align a.btn:hover {
+  color: #18174c;
+}
 ::selection {
   color: #ffffff;
   background-color: #facacb
@@ -3221,7 +3228,7 @@ li {
   overflow: hidden;
 }
 .btn:not(.btn-outline-clr):not(.btn-white):not(.btn-outline) {
-  color: #ffffff;
+  color: #facacb;
 }
 .btn:focus,
 .btn:active:focus,
@@ -3231,10 +3238,8 @@ li {
 .btn:hover,
 .btn:focus,
 .btn.hovered {
-  -webkit-box-shadow: inset 0 65px 0 rgba(255, 255, 255, 0.26);
-  -moz-box-shadow: inset 0 65px 0 rgba(255, 255, 255, 0.26);
-  box-shadow: inset 0 65px 0 rgba(255, 255, 255, 0.26);
-  color: #ffffff;
+  color: #18174c;
+  background-color: #facacb;
 }
 .btn:active,
 .btn.pressed {
