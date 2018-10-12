@@ -3775,18 +3775,17 @@ button.btn.btn-block {
   color: #000000;
 }
 .schedule.schedule-light .schedule-item .schedule-item-toggle .time {
-  vertical-align: top;
   margin: 0 20.5% 0 0;
   width: 26.5%;
   text-align: right;
   color: #f1aeb2;
-  font-size: 20px;
+  font-size: 22px;
   font-family: tvn_enjoystoriesmedium, Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
 .schedule.schedule-light .schedule-item .schedule-item-toggle .lecture-icon-wrapper {
   margin: 0 40px;
   position: absolute;
-  top: -8px;
+  top: -3px;
   left: 26.5%;
   display: inline-block;
   line-height: 38px;
@@ -3800,6 +3799,7 @@ button.btn.btn-block {
   width: 53%;
   padding: 0;
   border: none;
+  font-size: 17px;
 }
 .schedule.schedule-light .schedule-item .schedule-item-body {
   margin: 0 0 0 47%;
